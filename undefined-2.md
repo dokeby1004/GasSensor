@@ -1,6 +1,6 @@
 ---
-description: RSM721 for the detection of Hydrogen sulfide (H2S)
+description: RSM721 for the detection of Air Contaminants (VOC)
 ---
 
-# RSM721 - 황화수소 센서
+# RSM712 - 공기질 센서 \(VOC\)
 
