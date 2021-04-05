@@ -1,6 +1,6 @@
 # Table of contents
 
-* [가스센서](README.md)
+* [Introduction](README.md)
 
 ## Gas sensor
 
