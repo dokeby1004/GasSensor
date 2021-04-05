@@ -18,5 +18,5 @@ description: Data Sheet download of the gas sensor products.
 
 > **RSM741** - 메탄 센서 \(CH4\)
 
-{% file src="../../.gitbook/assets/rnslab\_rsm741\_ch4\_datasheet.pdf" %}
+{% file src="../../.gitbook/assets/rnslab\_rsm741\_ch4\_datasheet.pdf" caption="RSM741\_CH4" %}
 
