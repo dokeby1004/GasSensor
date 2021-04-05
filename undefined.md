@@ -16,3 +16,7 @@ description: You can download the data sheet of the gas sensor product.
 
 {% file src=".gitbook/assets/rnslab\_rsm711-aqs\_datasheet.pdf" caption="RSM711\_AQS" %}
 
+> **RSM741** - 메 센서 \(CH4
+
+{% file src=".gitbook/assets/rnslab\_rsm741\_ch4\_datasheet.pdf" %}
+
