@@ -1,5 +1,5 @@
 ---
-description: You can download the data sheet of the gas sensor product.
+description: Data Sheet download of the gas sensor product.
 ---
 
 # 다운로드
