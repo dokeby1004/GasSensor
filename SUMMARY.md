@@ -11,5 +11,5 @@
 
 ## Download
 
-* [가스센서](download/1.md)
+* [다운로드](download/1.md)
 
