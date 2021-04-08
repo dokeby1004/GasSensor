@@ -11,8 +11,6 @@
 
 ## Gas sensor module
 
-* [가스센서 모듈](gas-sensor-module/untitled.md)
-
 ## Download
 
 * [다운로드](download/1/README.md)
