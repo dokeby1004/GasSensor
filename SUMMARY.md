@@ -15,7 +15,7 @@
 
 ## Download
 
-* [다운로드](download/undefined-1/README.md)
-  * [가스센서](download/undefined-1/undefined.md)
-  * [가스센서 모듈](download/undefined-1/undefined-1.md)
+* [다운로드](download/1/README.md)
+  * [가스센서](download/1/undefined.md)
+  * [가스센서 모듈](download/1/undefined-1.md)
 
