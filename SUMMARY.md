@@ -1,6 +1,10 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Gas Sensor](README.md)
+
+## Introduction
+
+* [Introduction](introduction/introduction.md)
 
 ## Gas sensor
 

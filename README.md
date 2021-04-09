@@ -1,6 +1,6 @@
 ---
-description: Gas sensor & Gas sensor module product information
+description: Gas sensor product information
 ---
 
-# Introduction
+# Gas Sensor
 
