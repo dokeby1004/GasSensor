@@ -18,7 +18,7 @@ The following documents describe in detail the main functions and features of ea
 
 {% hint style="success" %}
 Revision v0.1  
-April. 2020
+April. 2021
 {% endhint %}
 
 {% hint style="info" %}
